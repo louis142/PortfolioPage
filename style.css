@@ -27,6 +27,7 @@ footer p{
 }
 h1{
     font-size: x-large;
+    width:100%;
     padding:0;
     margin:0.6rem;
     color: rgb(0, 173, 181);
